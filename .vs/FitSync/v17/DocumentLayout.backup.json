@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FitSync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmregistration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmregistration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|c:\\fitsync\\fitsync\\frmaddactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmaddactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmaddactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmaddactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmregistration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmregistration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmcalisthenics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmcalisthenics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|C:\\FitSync\\fitsync\\frmrunning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4B222E-7272-42FD-85ED-D20CE7AC3307}|FitSync\\FitSync.csproj|solutionrelative:fitsync\\frmrunning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddActivity.cs",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmAddActivity.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmAddActivity.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmAddActivity.cs",
+              "RelativeToolTip": "FitSync\\FrmAddActivity.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:44:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmDashboard.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmDashboard.cs",
+              "RelativeToolTip": "FitSync\\FrmDashboard.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAwwAsBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:09:45.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRegistration .cs",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmRegistration .cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmRegistration .cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmRegistration .cs",
+              "RelativeToolTip": "FitSync\\FrmRegistration .cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:03:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmLogin.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:47:49.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRegistration .cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmRegistration .cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmRegistration .cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmRegistration .cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmRegistration .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:54:22.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmDashboard.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:47:52.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddActivity.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmAddActivity.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmAddActivity.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmAddActivity.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmAddActivity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:50:30.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSwim.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmSwim.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmSwim.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmSwim.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmSwim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:10:02.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCycle.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmCycle.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmCycle.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmCycle.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmCycle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:12:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmST.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmST.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmST.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmST.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmST.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:58:43.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmRunning.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmRunning.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmRunning.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmRunning.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmRunning.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:18:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCalisthenics.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmCalisthenics.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmCalisthenics.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmCalisthenics.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmCalisthenics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:41:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSettings.cs [Design]",
+              "DocumentMoniker": "C:\\FitSync\\FitSync\\FrmSettings.cs",
+              "RelativeDocumentMoniker": "FitSync\\FrmSettings.cs",
+              "ToolTip": "C:\\FitSync\\FitSync\\FrmSettings.cs [Design]",
+              "RelativeToolTip": "FitSync\\FrmSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:47:39.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
